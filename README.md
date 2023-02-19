@@ -1,7 +1,7 @@
 ### Hi there, I'm Craig 👋
 <p>
   <a href="https://www.twitter.com/scyferdev">
-    <img src="https://img.shields.io/badge/Twitter-@Scyferdev-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@ScyferDev-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
 <!--

@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Hi there, I'm Craig 👋
+<p>
+  <a href="https://twitter.com/CraigDevUK">
+    <img src="https://img.shields.io/badge/Twitter-@CraigDevUK-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/craigdevuk">
+    <img src="https://img.shields.io/badge/Instagram-@craigdevuk-4C68D7?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@craigdevuk">
+    <img src="https://img.shields.io/badge/Threads-@craigdevuk-000000?style=flat&logo=threads&logoColor=white" />
+  </a>
+</p>
 <!--
 **Craig-UK/Craig-UK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
